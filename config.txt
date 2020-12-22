@@ -1,4 +1,4 @@
-# Put in /boot/config.txt to enable the extra UARTs on RPI4
+# Put this in /boot/config.txt to enable the extra UARTs on RPI4
 
 dtoverlay=disable-bt
 init_uart_clock=16000000
